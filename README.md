@@ -8,6 +8,10 @@ Entree is an open source project based on html email technology. The purpose is 
 * Uses nested `labels` to create a slideshow
 * Preserve simple navigation from one slide to the other
 
+## Steps
+1. Demo slide project – [link](http://codepen.io/wanbinkimoon/pen/pELOZd)
+2. Implementing react templating
+
 ## Mail client support
 ### Interactive
 * Mail
@@ -17,6 +21,5 @@ Entree is an open source project based on html email technology. The purpose is 
 * Inbox
 * Air Mail
 
-
 ## Acknowledgements
-**Entree** is a project by [Nicola Bertelloni](mailto:nicola.bertelloni@gmail.com) who had this marvellous idea watching a talk from [Mark Robbins](https://github.com/M-J-Robbins).
+**Entree** is a project by [Nicola Bertelloni](mailto:nicola.bertelloni@gmail.com) who had this marvellous idea watching a talk from [Mark Robbins](https://github.com/M-J-Robbins) at [From the front 2016](https://2016.fromthefront.it/)
