@@ -9,11 +9,14 @@ Entree is an open source project based on html email technology. The purpose is 
 * Preserve simple navigation from one slide to the other
 
 ## Mail client support
-* gMail
+### Interactive
+* Mail
+
+### Fallback – for static styled view
+* gmail
 * Inbox
 * Air Mail
-* Mail
-* Outlook
+
 
 ## Acknowledgements
 **Entree** is a project by [Nicola Bertelloni](mailto:nicola.bertelloni@gmail.com) who had this marvellous idea watching a talk from [Mark Robbins](https://github.com/M-J-Robbins).
