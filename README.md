@@ -7,10 +7,10 @@ Entree is an open source project based on html email technology. The purpose is 
 ## What does it do?
 * Uses nested `labels` to create a slideshow
 * Preserve simple navigation from one slide to the other
+* Provide fallbacks for not-html-friendly mail clients and services
 
 ## Steps
 1. Demo slide project – [link](http://codepen.io/wanbinkimoon/pen/pELOZd)
-2. Implementing react templating
 
 ## Mail client support
 ### Interactive
